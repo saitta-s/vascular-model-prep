@@ -32,8 +32,6 @@ TODO
 
 ## Usage
 
-Step-by-step instructions on how to get a development environment running. 
-
 ### Environment preparation
 
 ```bash
@@ -51,4 +49,3 @@ pip install -r requirements.txt
 # For interactive plotting, depending on your OS and kernel, you might need to:
 pip install 'jupyterlab>=3' ipywidgets 'pyvista[all,trame]'
 ```
-
